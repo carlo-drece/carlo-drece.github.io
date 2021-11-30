@@ -73,7 +73,7 @@ You can for sure allow multiple people to edit or view your report. It's even po
 https://datastudio.google.com/embed/reporting/9b3ffcf8-35a2-4340-bc3a-5fc59074bbb5/page/mnfgC
 
 
-
+<iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/9b3ffcf8-35a2-4340-bc3a-5fc59074bbb5/page/mnfgC" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 
 
