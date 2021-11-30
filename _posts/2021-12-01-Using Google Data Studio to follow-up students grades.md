@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Using Google Data Studio to follow-up student grades
+title:  Using I used Google Data Studio to follow-up students grades
 published: true
 ---
 
