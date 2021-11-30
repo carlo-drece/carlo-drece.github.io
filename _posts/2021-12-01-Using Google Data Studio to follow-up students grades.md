@@ -60,12 +60,17 @@ Finally, you can create a Report. The first thing needed is to select the data s
 
 ![Create a report - select data source](/assets/2021-12-01-Using Google Data Studio to follow-up students grades/8-report-new.png)
 
-If you are confortable excel, specially charts and pivot tables in there, you will find easy to create different kinds of charts inside your report.
+If you are comfortable excel, specially charts and pivot tables in there, you will find easy to create different kinds of charts inside your report.
 
 With this simple file stucture, I could create the following report in a matter of a few minutes.
 
 ![Report example](/assets/2021-12-01-Using Google Data Studio to follow-up students grades/9-report-example.png)
 
+# Publishing and sharing
+
+You can for sure allow multiple people to edit or view your report. It's even possible to embed it inside a web page with just a few clicks.
+  
+https://datastudio.google.com/embed/reporting/9b3ffcf8-35a2-4340-bc3a-5fc59074bbb5/page/mnfgC
 
 
 
