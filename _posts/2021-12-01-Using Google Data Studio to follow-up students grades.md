@@ -18,3 +18,4 @@ Data Studio is free cloud-based dashboard tool from Google which allows you to c
 In this example, I use a simple Google Sheets to store my son's grades (I do it together with him and it's quite fun - at least for me).
 
 ![Grade Google Sheet](/assets/2021-12-01-Using Google Data Studio to follow-up students grades/1-spreadsheet.png)
+s
