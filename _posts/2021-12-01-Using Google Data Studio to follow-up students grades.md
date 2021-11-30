@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Using Google Data Studio to follow-up students grades
+description: A small example based on the dashboard I manage with my son
 published: true
 ---
 
