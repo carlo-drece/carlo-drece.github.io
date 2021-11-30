@@ -70,10 +70,20 @@ With this simple file stucture, I could create the following report in a matter 
 
 You can for sure allow multiple people to edit or view your report. It's even possible to embed it inside a web page with just a few clicks.
   
-https://datastudio.google.com/embed/reporting/9b3ffcf8-35a2-4340-bc3a-5fc59074bbb5/page/mnfgC
-
-
 <iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/9b3ffcf8-35a2-4340-bc3a-5fc59074bbb5/page/mnfgC" frameborder="0" style="border:0" allowfullscreen></iframe>
 
+How cool is that?
 
+You can also check the report using the following link
+[https://datastudio.google.com/embed/reporting/9b3ffcf8-35a2-4340-bc3a-5fc59074bbb5/page/mnfgC](https://datastudio.google.com/embed/reporting/9b3ffcf8-35a2-4340-bc3a-5fc59074bbb5/page/mnfgC
+)
 
+# There is way much more
+
+You can use multiple data sources, create more complex and interesting charts, add filters, create calculated fields inside your data source and many cool things.
+
+# Conclusion
+
+As a parent, I love the idea of being able to show my son his own progress in a modern way. He is already inserted into a data-driven world and the sooner he is comfortable with this kind need, the better are the changes of him being able to apply it elsewhere.
+
+If I were a student, I would love to track my progress like that as it can also be used as a portfolio for business interviews. As a software engineer, a cool and useful report can for sure add more value than the grades expressed in there.
